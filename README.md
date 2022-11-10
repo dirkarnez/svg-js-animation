@@ -1,2 +1,2 @@
-[svg-js-animation-playground](https://github.com/dirkarnez/svg-js-animation-playground)
-=======================================================================================
+[svg-js-animation-playground](https://dirkarnez.github.io/svg-js-animation-playground)
+======================================================================================
